@@ -1,0 +1,21 @@
+{
+  "name": "ig-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ig-comment.js",
+  "scripts": {
+    "start": "node ig-comment.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
